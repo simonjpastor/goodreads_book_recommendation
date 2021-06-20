@@ -1,6 +1,6 @@
 # goodreads_book_recommendation
 
-Hey, thanks for checking it out my code 🙂
+Hey! Thanks for checking it out my code 🙂
 
 Download the goodreads.ipynb file and open it as Jupyter Notebook. 
 
