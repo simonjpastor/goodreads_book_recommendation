@@ -2,7 +2,7 @@
 
 Hey! Thanks for checking it out my code 🙂
 
-Check out the code by clicking on <strong> goodreads.py </strong> or <strong> goodreads.html </strong> ! 
+Check out the code by clicking on <a href="https://github.com/simonjpastor/goodreads_book_recommendation/blob/main/goodreads.py"> <strong> on goodreads.py </strong> or <strong> </a> ! 
 
 # If you want to check it out in Jupyter Notebook:
 Download the goodreads.ipynb file and open it as Jupyter Notebook. 
